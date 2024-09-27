@@ -1,4 +1,0 @@
-## Setup
-
-### Set Trusted URL
-
